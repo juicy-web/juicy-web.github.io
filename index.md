@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-layout: defailt
+layout: default
 ---
 # Welcome!
 Hello and Welcome to **Juicy Web**. We are making web templates and more with code, love and passion.
